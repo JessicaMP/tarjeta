@@ -1,9 +1,12 @@
+# **Tarjeta de crédito Valida**
+# Introducción
+En el siguiente programa se puede ver si su tarjeta de credito es valida o no.
 ### Pseudocodigo
 
 
 ##### Algoritmo Tarjeta_de_credito_valida
 
-    Definir array,arr,i,j,duplicate,sum,k,cardNumberReverse Como Entero
+      Definir array,arr,i,j,duplicate,sum,k,cardNumberReverse Como Entero
 	  Definir cardNumber Como Caracter
 	  Escribir 'Ingrese el número de su tarjeta:'
 	  Leer input
@@ -28,3 +31,12 @@
 			Fin Si Entonces
 		Fin Para
 	  Fin Algoritmo
+
+##### Diagrama de flujo
+<https://ibb.co/iQphGG>
+
+##### Ejemplo:
+<https://es.imgbb.com/>
+
+Web site: <file:///C:/Users/Jessica%20Manturano/Desktop/Jessica/tarjeta/index.html>
+E-mail: <jessica95.mp@gmail.com>
